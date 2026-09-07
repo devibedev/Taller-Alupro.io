@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+node_modules/
+dist/
+build/
+*.db
+*.sqlite3
+croquis_*.png
